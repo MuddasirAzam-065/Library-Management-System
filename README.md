@@ -66,12 +66,17 @@ Simply open **index.html** in your browser.
 
 
 ## 🖥 Screens
-###Landing Page:
+### Landing Page:
 <img width="1366" height="600" alt="4" src="https://github.com/user-attachments/assets/7ced7a29-6afb-410d-b4a1-fb0899cf4f4d" />
 
-###Login Page
-###Signup Page
-###Library Dashboard
+### Login Page
+<img width="819" height="356" alt="3" src="https://github.com/user-attachments/assets/74914891-f354-48a9-95f3-142efa74fee8" />
+
+### Signup Page
+<img width="604" height="436" alt="2" src="https://github.com/user-attachments/assets/2c60e41b-0cf7-4310-9dc8-813aff25b4ec" />
+
+### Library Dashboard
+<img width="1364" height="606" alt="5" src="https://github.com/user-attachments/assets/7f079565-4cd7-421f-86ed-830af69248e6" />
 
 ## 📈 Future Improvements
 
