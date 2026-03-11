@@ -67,16 +67,21 @@ Simply open **index.html** in your browser.
 
 ## 🖥 Screens
 ### Landing Page:
-<img width="1366" height="600" alt="4" src="https://github.com/user-attachments/assets/7ced7a29-6afb-410d-b4a1-fb0899cf4f4d" />
+<img width="819" height="356" alt="3" src="https://github.com/user-attachments/assets/2998d43e-39c9-4ce7-9ab1-16dd74e42db7" />
 
 ### Login Page
-<img width="819" height="356" alt="3" src="https://github.com/user-attachments/assets/74914891-f354-48a9-95f3-142efa74fee8" />
+<img width="604" height="436" alt="2" src="https://github.com/user-attachments/assets/94cbc5a3-dddc-4fe1-a396-0a020d2d7d27" />
+
 
 ### Signup Page
-<img width="604" height="436" alt="2" src="https://github.com/user-attachments/assets/2c60e41b-0cf7-4310-9dc8-813aff25b4ec" />
+<img width="514" height="453" alt="1" src="https://github.com/user-attachments/assets/a2e9c1fe-b0ea-4c90-a51f-2470449ff107" />
 
 ### Library Dashboard
-<img width="1364" height="606" alt="5" src="https://github.com/user-attachments/assets/7f079565-4cd7-421f-86ed-830af69248e6" />
+<img width="1364" height="606" alt="5" src="https://github.com/user-attachments/assets/5d6e76b1-e4d0-48cc-88eb-4149cfd0eb1f" />
+
+<img width="1363" height="603" alt="7" src="https://github.com/user-attachments/assets/1d41c50c-2acd-4942-9741-35a37b78c8db" />
+
+
 
 ## 📈 Future Improvements
 
