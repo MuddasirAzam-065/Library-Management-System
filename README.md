@@ -67,11 +67,12 @@ Simply open **index.html** in your browser.
 ---
 
 ## 🖥 Screens
+###Landing Page:
+<img width="1366" height="600" alt="4" src="https://github.com/user-attachments/assets/7ced7a29-6afb-410d-b4a1-fb0899cf4f4d" />
 
-- **Landing Page**
-- **Login Page**
-- **Signup Page**
-- **Library Dashboard**
+###Login Page
+###Signup Page
+###Library Dashboard
 
 ---
 
