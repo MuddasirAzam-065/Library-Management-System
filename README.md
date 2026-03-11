@@ -64,7 +64,6 @@ cd library-management-system
 
 Simply open **index.html** in your browser.
 
----
 
 ## 🖥 Screens
 ###Landing Page:
@@ -73,8 +72,6 @@ Simply open **index.html** in your browser.
 ###Login Page
 ###Signup Page
 ###Library Dashboard
-
----
 
 ## 📈 Future Improvements
 
